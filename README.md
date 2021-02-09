@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋   Here is J ⚡
 
 <!--
 **CormickKneey/CormickKneey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![golang.jpg](https://i.postimg.cc/Y9QmLVgD/IMG-313.jpg)](https://postimg.cc/phXdgssK)
+
+
+
+:hammer_and_wrench: Golang, Kubernetes, Cloud Native, Docker
