@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![golang.jpg](https://i.postimg.cc/Y9QmLVgD/IMG-313.jpg)](https://postimg.cc/phXdgssK)
-
+![golang](https://i.postimg.cc/Y9QmLVgD/IMG-313.jpg)
 
 
 :hammer_and_wrench: Golang, Kubernetes, Cloud Native, Docker
